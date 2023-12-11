@@ -5,4 +5,4 @@ Nel seguente progetto abbiamo trattato l'argomento dell'image segmentation, anal
 
 Infine, abbiamo fatto una breve digressione sulla segmentazione delle immagini fatta dall'essere umano per poi collegarci ai principi della Gestalt e come questi possano essere riconducibili a delle strategie di image segmentation.
 
-Membri: Clara Consonni, Valentina Debbia e Giorgio Sironi
+Membri: Clara Consonni, Valentina Debbia, Giorgio Sironi
